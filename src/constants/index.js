@@ -8,6 +8,7 @@ import {
   l4,
   l6,
   edunet,
+  bridge4Engineers,
   gssoc,
   hactoberfest,
   icpc,
@@ -131,6 +132,17 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: 'Project Manager',
+    company_name: 'Bridge4Engineers',
+    icon: edunet,
+    iconBg: '#ffffff',
+    date: 'Dec 2024 - Present',
+    points: [
+      'Working in a team to developing a Bridge4Engineers Web App where I was responsible for implementing the frontend using React, building the backend with Express, and managing the database with MongoDB.',
+      'Exposure: React . Express . MongoDB . JavaScript . Git and Github',
+    ],
+  },
   {
     title: 'Intern At Edunet Foundation',
     company_name: 'Edunet Foundation',
